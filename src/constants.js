@@ -27,7 +27,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 
 
 // Experience Section Logo's
-import DRDO_LOGO from './assets/company_logo/DRDO_LOGO.png';
+import drdo_logo from './assets/company_logo/drdo_logo.png';
 import ibm from './assets/company_logo/ibm.png'
 
 
@@ -95,7 +95,7 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: DRDO_LOGO,
+      img: drdo_logo,
       role: "Research intern ",
       company: "DRDO (Defence Research and Development Organization)",
       date: "June 2025 - July 2025",
